@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Test User",
+        "email": "test@example.com",
+        "_subject": "Hello Local Server",
+        "message": "Testing local contact form API!"
+    }
+]
